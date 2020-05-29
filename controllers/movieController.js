@@ -1,4 +1,4 @@
-const Movie = require('./../models/movieModel');
+const Movie = require('./../models/MovieModel');
 const factory = require('./handlerFactory');
 
 //* Factory Functions
